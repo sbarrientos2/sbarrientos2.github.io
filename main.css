@@ -1,0 +1,19 @@
+body {
+	background:blue;
+	font-family: consolas;
+}
+
+h1, h2, p, li {
+	color: white;
+}
+
+a, p {
+	color:black;
+}
+
+p {
+	color:black;
+}
+header {
+	magin:0;
+}
