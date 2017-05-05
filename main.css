@@ -1,10 +1,10 @@
 body {
-	background:blue;
+	background:white;
 	font-family: consolas;
 }
 
 h1, h2, p, li {
-	color: white;
+	color: black;
 }
 
 a, p {
